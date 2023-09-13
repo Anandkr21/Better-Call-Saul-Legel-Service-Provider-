@@ -138,16 +138,11 @@ DELETE  /admin/deleteUser/:id
 
 ## More Project Details :-
 
-- Type : Group Project
+- Type : Individual Project
 - Duration of Project - 6 Days
-- Members who contributed 
-  - <a href="https://www.linkedin.com/in/ashwin-385a86166">Ashwin</a>
-  - <a href="https://www.linkedin.com/in/himanshu-aggarwal-6208a1137">Himanshu Aggarwal</a>
   - <a href="https://www.linkedin.com/in/anandkr21/">Anand Kumar</a>
-  - <a href="https://www.linkedin.com/in/kanha-chhirolya-241368242/">Kanha Chhirolya</a>
-  - <a href="">Jay Shukla</a>
----
 
+---
 <br/>
 
 <h3 align="center" >Thank you for your Time 💝</h3>
